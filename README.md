@@ -1,5 +1,5 @@
-# HAWK
-*HAWK* is a secure and non-interactive two-party
+# Zephyr
+*Zephyr* is a secure and non-interactive two-party
 inference for transformers. This code is built upon the code of NEXUS scheme,https://github.com/zju-abclab/NEXUS. The differences located 
 in the src/matrix_mul.cpp,src/ckks_evaluator.h and src/main.cpp files.
 
