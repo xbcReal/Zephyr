@@ -12,8 +12,8 @@ Please install the SEAL library `thirdparty/SEAL-4.1-bs` included as part of thi
 
 <br/>
 
-## Compiling HAWK
-Once Microsoft SEAL 4.1 is installed, to build HAWK simply run:
+## Compiling Zephyr
+Once Microsoft SEAL 4.1 is installed, to build Zephyr simply run:
 
 ```bash
 mkdir build
